@@ -1339,6 +1339,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   anim: {fileID: 0}
+  AudioDoor: {fileID: 0}
 --- !u!1 &1000010596514064
 GameObject:
   m_ObjectHideFlags: 0
@@ -12385,3 +12386,4 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   anim: {fileID: 0}
+  AudioDoor: {fileID: 0}

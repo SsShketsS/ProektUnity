@@ -10,7 +10,7 @@ public class NewBehaviourScript : MonoBehaviour
     //Работа кнопки старта игры 
         public void StartScence()
     {
-        Application.LoadLevel("Demo");
+        Application.LoadLevel("dom");
     }
 
 
