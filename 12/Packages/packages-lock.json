@@ -1,11 +1,5 @@
 {
   "dependencies": {
-    "com.caseydecoder.doxygengenerator": {
-      "version": "file:J:/3Курс/2 семестр/Системное трпп/9-10/DoxygenGenerator-main",
-      "depth": 0,
-      "source": "local",
-      "dependencies": {}
-    },
     "com.unity.collab-proxy": {
       "version": "1.15.16",
       "depth": 0,
